@@ -11,6 +11,23 @@
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
+        <dl4j.version>0.9.1</dl4j.version>
     </properties>
+
+
+<!--    <dependencies>-->
+
+<!--        <dependency>-->
+<!--            <groupId>org.nd4j</groupId>-->
+<!--            <artifactId>nd4j-native-platform</artifactId>-->
+<!--            <version>${dl4j.version}</version>-->
+<!--        </dependency>-->
+
+<!--        <dependency>-->
+<!--            <groupId>org.deeplearning4j</groupId>-->
+<!--            <artifactId>deeplearning4j-core</artifactId>-->
+<!--            <version>${dl4j.version}</version>-->
+<!--        </dependency>-->
+<!--    </dependencies>-->
 
 </project>
